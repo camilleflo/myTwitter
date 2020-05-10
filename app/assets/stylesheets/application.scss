@@ -19,15 +19,21 @@
 .navbar-brand .title {
 
 	color:white;
+
 }
 
-.image {
+
+.image img { 
 	border-radius: 50%;
-	img {
-		border-raidus:50%;
-	}
+	
 }
 
 .notifications:not(:last-child) {
 	margin-bottom: 0;
 }
+
+.panel-heading {
+    background-color: #0000CD;
+color: white;
+font-weight: bold;}
+
